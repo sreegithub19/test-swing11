@@ -30,7 +30,7 @@ public class TestSwing11 extends JFrame {
         stopButton.addActionListener(e -> timer.stop());
 
         animatedPanel = new AnimatedPanel();
-        animatedPanel.setBackground(Color.CYAN);
+        animatedPanel.setBackground(Color.YELLOW);
         setLayout(new BorderLayout());
         add(animatedPanel, BorderLayout.CENTER);
         add(startButton, BorderLayout.NORTH);
