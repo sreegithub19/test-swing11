@@ -30,7 +30,7 @@ public class TestSwing11 extends JFrame {
         stopButton.addActionListener(e -> timer.stop());
 
         animatedPanel = new AnimatedPanel();
-        animatedPanel.setBackground(Color.YELLOW);
+        animatedPanel.setBackground(Color.BLUE);
         setLayout(new BorderLayout());
         add(animatedPanel, BorderLayout.CENTER);
         add(startButton, BorderLayout.NORTH);
@@ -42,7 +42,7 @@ public class TestSwing11 extends JFrame {
         protected void paintComponent(Graphics g) {
             super.paintComponent(g);
             g.drawString("""
-                <h1>Hello jDeploy 8</h1>
+                <h1>Hello j_Deploy 17</h1>
                          """, x, y);
         }
     }
