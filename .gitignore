@@ -2,3 +2,4 @@ target
 .idea
 /jdeploy
 /jdeploy-bundle
+.DS_Store
