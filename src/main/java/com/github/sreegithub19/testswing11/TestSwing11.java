@@ -41,7 +41,9 @@ public class TestSwing11 extends JFrame {
         @Override
         protected void paintComponent(Graphics g) {
             super.paintComponent(g);
-            g.drawString("Hello jDeploy 8", x, y);
+            g.drawString("""
+                <h1>Hello jDeploy 8</h1>
+                         """, x, y);
         }
     }
 
