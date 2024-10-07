@@ -1,8 +1,6 @@
 package com.github.sreegithub19.testswing11;
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class TestSwing11 extends JFrame {
 
