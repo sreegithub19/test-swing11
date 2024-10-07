@@ -10,6 +10,6 @@ This project has been generated using the Swing project template from [jDeploy](
 
 
 ### URLs to access:
-- https://sreegithub19.github.io/test-swing11
-- https://sreegithub19.github.io/test-swing11/master
-- https://sreegithub19.github.io/test-swing11/applications
+- <a href="https://sreegithub19.github.io/test-swing11">Home page</a>
+- <a href="https://sreegithub19.github.io/test-swing11/master">Master</a>
+- <a href="https://sreegithub19.github.io/test-swing11/applications">Applications</a>
