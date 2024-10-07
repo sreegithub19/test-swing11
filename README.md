@@ -1,4 +1,4 @@
-# Test Swing11
+# Test Swing11 project
 
 {{ appDescription }}
 
